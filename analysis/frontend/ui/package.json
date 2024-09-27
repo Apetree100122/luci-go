@@ -21,7 +21,7 @@
     "@fontsource/roboto": "^4.5.8",
     "@mui/icons-material": "^5.11.11",
     "@mui/lab": "^5.0.0-alpha.122",
-    "@mui/material": "^5.11.12",
+    "@mui/material": "^5.14.20",
     "@vaadin/router": "^1.7.4",
     "dayjs": "^1.11.7",
     "dompurify": "^3.0.5",
